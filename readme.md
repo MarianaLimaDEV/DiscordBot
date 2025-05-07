@@ -1,0 +1,1 @@
+Esse é um projeto de bot do discord que estou fazendo para um servidor meu 
